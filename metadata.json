@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF to Word Converter",
+  "description": "A high-fidelity document conversion tool powered by Gemini AI that intelligently recreates PDF structures, headings, and formatting into downloadable Microsoft Word (.docx) files.",
+  "requestFramePermissions": []
+}
